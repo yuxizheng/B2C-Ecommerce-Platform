@@ -1,0 +1,6 @@
+C:\Users\郑语悉\source\repos\BikiniBottomMall\BikiniBottomMall\obj\newdebug\netcoreapp3.1\BikiniBottomMall.Mall.resources
+C:\Users\郑语悉\source\repos\BikiniBottomMall\BikiniBottomMall\obj\newdebug\netcoreapp3.1\BikiniBottomMall.SignUp.resources
+C:\Users\郑语悉\source\repos\BikiniBottomMall\BikiniBottomMall\obj\newdebug\netcoreapp3.1\BikiniBottomMall.csproj.GenerateResource.cache
+C:\Users\郑语悉\source\repos\BikiniBottomMall\BikiniBottomMall\obj\newdebug\netcoreapp3.1\BikiniBottomMall.AssemblyInfoInputs.cache
+C:\Users\郑语悉\source\repos\BikiniBottomMall\BikiniBottomMall\obj\newdebug\netcoreapp3.1\BikiniBottomMall.AssemblyInfo.cs
+C:\Users\郑语悉\source\repos\BikiniBottomMall\BikiniBottomMall\obj\newdebug\netcoreapp3.1\BikiniBottomMall.csproj.CoreCompileInputs.cache

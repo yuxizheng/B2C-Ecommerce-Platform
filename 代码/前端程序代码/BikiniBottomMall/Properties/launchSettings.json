@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "BikiniBottomMall": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    },
+    "BikiniBottomMall2": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
